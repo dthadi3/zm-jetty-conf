@@ -1,0 +1,4 @@
+language: ampl
+arch:
+  - amd64
+  - ppc64le
